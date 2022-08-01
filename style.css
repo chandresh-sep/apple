@@ -1,0 +1,22 @@
+body
+{
+	text-align: center;
+	background: linear-gradient(45deg , #ffffff,#00ff6a);
+	border-radius: 20px;
+}
+span
+{
+	font-size: 16px;
+	color: red;
+}
+canvas
+{
+	background: linear-gradient(45deg , #00ff6a,#ffffff);
+	border-radius: 20px;
+}
+
+h3
+{
+	color: navy;
+	font-size: 80px;
+}
